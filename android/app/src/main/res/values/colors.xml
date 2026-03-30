@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Matches AppConfig.bgColor = #050D1A -->
+    <color name="launch_background">#FF050D1A</color>
+    <!-- Primary cyan accent -->
+    <color name="primary_color">#FF00D4E8</color>
+</resources>
